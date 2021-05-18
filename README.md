@@ -5,13 +5,12 @@
 - Improved programs performance on a cluster of nodes by analyzing Spark UI and performing partition, cache, and broadcast settings
 - Tools used: *databricks, dbutils, AWS S3, sparkSQL, python, pyspark, numpy, pandas, sklearn, mlflow*
 
-[**Notebooks:**](https://cmn0705.github.io/Data_Engineering_with_Databricks/#01.File%20system.html)
+**Notebooks:**
+[*Click here to view notebooks*](https://cmn0705.github.io/Data_Engineering_with_Databricks/#01.File%20system.html)
 
 01.File system
 
 02.Mount a remote storage
-
-02.Mount a remote storage (hid the keys)
 
 03.Creating database and tables from files
 
