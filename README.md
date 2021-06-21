@@ -6,7 +6,6 @@
 - Tools used: *databricks, dbutils, AWS S3, sparkSQL, python, pyspark, numpy, pandas, sklearn, mlflow*
 
 **Notebooks:**
-[*Click here to view notebooks*](https://cmn0705.github.io/Fire_Calls_Data_Pipeline/#01.File%20system.html)
 
 01.File system
 
