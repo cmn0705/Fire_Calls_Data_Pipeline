@@ -26,10 +26,6 @@
 
 09.Download a file from Databricks storage
 
-10.Train sentiment predictor and save model
+10.Predict fire calls time delay
 
-11.Apply sentiment model on new data
-
-12.Predict fire calls time delay
-
-13.Predict fire call groups
+11.Predict fire call groups
